@@ -20,6 +20,15 @@ Contém comandos e anotações para escaneamento básico de redes e portas. Serv
 
 > Em breve, novos scripts serão adicionados para cobrir técnicas ofensivas e defensivas de cibersegurança, com foco em ambientes reais de Red Team e Blue Team.
 
+
+## 📌 Próximos scripts planejados
+
+- Script para extração de metadados de arquivos
+- Ferramenta de brute-force simples para estudo
+- Monitor de atividades suspeitas em tempo real
+- Automação de backup de diretórios críticos
+
+
 ## ⚙️ Requisitos
 
 - Shell Bash
